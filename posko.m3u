@@ -18,11 +18,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/drNFUso.gif",volly korea
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://new.cache-stream.workers.dev/stream/UC_AdTt-1QXhSczv_Rdmwxag/live.m3u8
-
 
 
 
@@ -48,16 +43,24 @@ https://new.cache-stream.workers.dev/stream/UC9R4RG1OYgznwUV8Ig8tP4Q/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCJduEGukjOXzTW4jfkQ-ihw/live.m3u8
 
 
+#EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/dGBgYg6.gif",Koplo
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://new.cache-stream.workers.dev/stream/UC3CIsdTsjE-rFJ83y7UY3NQ/live.m3u8
+
+
 #EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/drNFUso.gif",Wayang kulit
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://new.cache-stream.workers.dev/stream/UCUdCdnzaqm3DIkXwbZQkG3g/live.m3u8
 
 
-#EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/drNFUso.gif",Wayang kulit 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://new.cache-stream.workers.dev/stream/UC5GrfkXiL4rPJ5LvkXzXETw/live.m3u8
+
+
+
+
+
+
 
 ##########################
 ######## LPP TVRI ########
