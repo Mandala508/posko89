@@ -21,13 +21,24 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
 
+#EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/XPS472m.png",Live African safar1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://playlist.x10.mx/ytonichan.php?id=UCJduEGukjOXzTW4jfkQ-ihw
+
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/XPS472m.png" group-title="Live Event", LIVE AFRIKAN SAFARI
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCJduEGukjOXzTW4jfkQ-ihw
 
 
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/XPS472m.png" group-title="Live Event", LIVE AFRIKAN SAFARI1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCbtEMxhSfdRXorVMhw9FnzA
 
 #EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/drNFUso.gif",Wayang kulit
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
@@ -38,7 +49,13 @@ https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCUdCdnzaqm3DIkXwbZQkG3g
 #EXTINF:-1 group-title="Live Event" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/drNFUso.gif",Wayang kulit1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://iptvonline.x10.bz/ytlive.php?id=UCUdCdnzaqm3DIkXwbZQkG3g
+http://playlist.x10.mx/ytonichan.php?id=UCpKQIejGeMbok6qFKf_f0Fw
+
+##############################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Em1VDOS.png" group-title="Live Event",ngaji
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://playlist.x10.mx/ytonichan.php?id=UCIrj7gqiu8uUfgMitYFzkNg
+##############################################################################################
 
 
 
